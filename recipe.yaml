@@ -1,0 +1,15 @@
+copyright: mpdktest <mattia+mpdktest@mattiabonzi.it>
+component: mod_ferds
+release: 0.1.0
+version: '2023022500'
+requires: '2022112801'
+maturity: MATURITY_ALPHA
+name: ferds
+privacy: true
+features:
+  - install
+  - uninstall
+  - settings
+  - license
+  - upgrade
+  - upgradelib
